@@ -1,11 +1,11 @@
-npm install --save-dev grunt-contrib-copy
-npm install --save-dev grunt-contrib-less
-npm install --save-dev grunt-contrib-csslint
-npm install --save-dev grunt-preprocess
-npm install --save-dev grunt-jslint
-npm install --save-dev grunt-contrib-jasmine
-npm install --save-dev grunt-contrib-uglify
-npm install --save-dev grunt-contrib-clean
-npm install --save-dev grunt-contrib-imagemin
-npm install --save-dev grunt-newer
-npm install --save-dev imagemin-mozjpeg
+call npm install --save-dev grunt-contrib-copy
+call npm install --save-dev grunt-contrib-less
+call npm install --save-dev grunt-contrib-csslint
+call npm install --save-dev grunt-preprocess
+call npm install --save-dev grunt-jslint
+call npm install --save-dev grunt-contrib-jasmine
+call npm install --save-dev grunt-contrib-uglify
+call npm install --save-dev grunt-contrib-clean
+call npm install --save-dev grunt-contrib-imagemin
+call npm install --save-dev grunt-newer
+call npm install --save-dev imagemin-mozjpeg
