@@ -1,0 +1,12 @@
+#.gitignore
+#.git/
+.settings/
+node_modules/
+template/*
+.buildpath
+.project
+#go.bat
+#run.bat
+#Gruntfile.js
+#package.json
+#init.bat

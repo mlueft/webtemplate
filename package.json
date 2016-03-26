@@ -1,0 +1,31 @@
+{
+  "name": "www.lueftenegger.at",
+  "version": "0.0.1",
+  "description": "The typo3 template for the web site",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-csslint": "^1.0.0",
+    "grunt-contrib-imagemin": "^1.0.0",
+    "grunt-contrib-jasmine": "^1.0.0",
+    "grunt-contrib-less": "^1.2.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-jslint": "^1.1.14",
+    "grunt-newer": "^1.1.2",
+    "grunt-preprocess": "^5.1.0",
+    "imagemin-mozjpeg": "^5.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Lueftenegger",
+  "license": "proprietery",
+  "inputFolder": "dev/",
+  "outputFolder": "template/"
+}
